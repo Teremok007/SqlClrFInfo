@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlClrFInfo", "SqlClrFInfo.csproj", "{8998040E-5CFD-4993-970C-0BA1994B8F7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseDll", "..\UseDll\UseDll.csproj", "{D3FDF8D3-9BE4-4F63-9ACE-FDBC8516C36B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8998040E-5CFD-4993-970C-0BA1994B8F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8998040E-5CFD-4993-970C-0BA1994B8F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8998040E-5CFD-4993-970C-0BA1994B8F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8998040E-5CFD-4993-970C-0BA1994B8F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FDF8D3-9BE4-4F63-9ACE-FDBC8516C36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FDF8D3-9BE4-4F63-9ACE-FDBC8516C36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FDF8D3-9BE4-4F63-9ACE-FDBC8516C36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FDF8D3-9BE4-4F63-9ACE-FDBC8516C36B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {758700EA-B0CD-4D2D-9AB6-94ACD8FAB74C}
+	EndGlobalSection
+EndGlobal
